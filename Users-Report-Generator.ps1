@@ -43,3 +43,4 @@ foreach ($email in $users."PrimarySMTPAddress") {
 
 # Export the populated CSV template to an Excel file
 $Main | Export-Excel $finaldir -AutoSize -BoldTopRow -WorkSheetName "Main"
+
