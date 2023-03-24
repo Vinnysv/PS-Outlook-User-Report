@@ -3,10 +3,6 @@ Creates a spreadsheet report of users based on Outlook address book. I made this
 
 This script exports the Global Address List from Outlook to an Excel file, creating an "Outlook Addressbook Report" with the current date in the file name.
 
-# Outlook Address Book Exporter
-
-This PowerShell script exports the Global Address List (GAL) from Microsoft Outlook to an Excel file, creating an "Outlook Addressbook Report" with the current date in the file name.
-
 ## Prerequisites
 
 - PowerShell
